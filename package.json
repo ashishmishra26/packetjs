@@ -1,0 +1,19 @@
+{
+  "name": "packetjs",
+  "version": "0.0.1",
+  "description": "A draggable and recomposable layouting library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishmishra26/packetjs.git"
+  },
+  "author": "Ashish Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishmishra26/packetjs/issues"
+  },
+  "homepage": "https://github.com/ashishmishra26/packetjs#readme"
+}
